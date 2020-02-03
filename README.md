@@ -1,7 +1,7 @@
 # mongo-example
 
 # Install Mongo Or Use A Container
-[https://docs.mongodb.com/manual/tutorial/install-mongodb-on-debian/](docs here).
+[docs here](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-debian/).
 
 > Very Important: Have Mongo installed on your machine for continuing. 
 
